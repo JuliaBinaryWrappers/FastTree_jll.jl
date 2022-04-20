@@ -1,0 +1,143 @@
+[[FastTree]]
+arch = "aarch64"
+git-tree-sha1 = "a477ee675e2b21097c9b03a67f464f26a80b9a24"
+os = "macos"
+
+    [[FastTree.download]]
+    sha256 = "bc6a107e947baab6675736a4da9314d3a69ccf8e21b010993cde2eaa1cfa089f"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.aarch64-apple-darwin.tar.gz"
+[[FastTree]]
+arch = "aarch64"
+git-tree-sha1 = "0b7e53ed81ace5f6b460ca8b2a2f0cc102c233bc"
+libc = "glibc"
+os = "linux"
+
+    [[FastTree.download]]
+    sha256 = "fd360101e17b4298c2e0fa252ed8c5c606a48c7aa8f129bcc7e626aa7b0a5f1b"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.aarch64-linux-gnu.tar.gz"
+[[FastTree]]
+arch = "aarch64"
+git-tree-sha1 = "ccc29efa113a0530de64ccd925a837099e8e91fd"
+libc = "musl"
+os = "linux"
+
+    [[FastTree.download]]
+    sha256 = "bf87ab8a47ee64ca4e66349f00049c4227e15b12052ecae18a35b69d159f6290"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.aarch64-linux-musl.tar.gz"
+[[FastTree]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "471a67a52b5a9ca1ea15b340e4897ced0a4c9e7b"
+libc = "glibc"
+os = "linux"
+
+    [[FastTree.download]]
+    sha256 = "512c826c50cf7db2f76ac090e645175c3021b0a8b20ab5d69178bbca0090d3ff"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.armv6l-linux-gnueabihf.tar.gz"
+[[FastTree]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "64fb030f4733ca18dd5a00dcf5e0b9f0510702ba"
+libc = "musl"
+os = "linux"
+
+    [[FastTree.download]]
+    sha256 = "3cdb63f6c70e26a771625a6f3e19086ad79802c94625acba55f5f66a07f31679"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.armv6l-linux-musleabihf.tar.gz"
+[[FastTree]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0ac953989c996375ac2ecb34854a31cb60f99e76"
+libc = "glibc"
+os = "linux"
+
+    [[FastTree.download]]
+    sha256 = "d1760b97539048bb3cd23ae820bc8dfd1e0fae70b162f92e3d3b7fac80198515"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.armv7l-linux-gnueabihf.tar.gz"
+[[FastTree]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1cc8a30107bf3996bc7b32b7ef1cc25bf72eaaf4"
+libc = "musl"
+os = "linux"
+
+    [[FastTree.download]]
+    sha256 = "546d0f51866317844a7f6df88c82d308f4bf73acd01051420d69c1629b9873a3"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.armv7l-linux-musleabihf.tar.gz"
+[[FastTree]]
+arch = "i686"
+git-tree-sha1 = "e9ad649f55a56adcbaf1fd25d0f2b1636ec4c644"
+libc = "glibc"
+os = "linux"
+
+    [[FastTree.download]]
+    sha256 = "db2cb96a5e51fcb8c057904c230dd0bfd990c19befd21fcd9669fc40d1015ebf"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.i686-linux-gnu.tar.gz"
+[[FastTree]]
+arch = "i686"
+git-tree-sha1 = "324f57caf6f205b8f6a0aded7d97d574bfe6ab8f"
+libc = "musl"
+os = "linux"
+
+    [[FastTree.download]]
+    sha256 = "dd8ca9e261d2e4e68ed0def1c00fc55696d04110db4db6e49cd4d274a7e29ba6"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.i686-linux-musl.tar.gz"
+[[FastTree]]
+arch = "i686"
+git-tree-sha1 = "e0e3fb1f952564ade3d85e55554078f707cc5c8c"
+os = "windows"
+
+    [[FastTree.download]]
+    sha256 = "6100d9b0d02fa842c0df7875d4bd99bf695ac3c601294057da1ea38b1717b884"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.i686-w64-mingw32.tar.gz"
+[[FastTree]]
+arch = "powerpc64le"
+git-tree-sha1 = "b0ffdd8fa866531b51389e582e1ee2763df03cae"
+libc = "glibc"
+os = "linux"
+
+    [[FastTree.download]]
+    sha256 = "60ffc29aa5205b0dc852b739cf645f4be11b667735d2d35f52989220025b87e8"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.powerpc64le-linux-gnu.tar.gz"
+[[FastTree]]
+arch = "x86_64"
+git-tree-sha1 = "d6cf3d99b43cab71d4a6b914c85eaf01a4f93c89"
+os = "macos"
+
+    [[FastTree.download]]
+    sha256 = "d8ffcfd3becf715d6fe0c5453f12fd6a20148e93eb630cac18b12d9607e87667"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.x86_64-apple-darwin.tar.gz"
+[[FastTree]]
+arch = "x86_64"
+git-tree-sha1 = "875440f80cb433b111d5026a5197be579d0ea44e"
+libc = "glibc"
+os = "linux"
+
+    [[FastTree.download]]
+    sha256 = "91f001d9c20e73314acff22f5719b642c3b835ef6e71d420b7ce1b107bf219d0"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.x86_64-linux-gnu.tar.gz"
+[[FastTree]]
+arch = "x86_64"
+git-tree-sha1 = "5619af0ca8f9ec05f5e8aca2fca1f11cb44ed975"
+libc = "musl"
+os = "linux"
+
+    [[FastTree.download]]
+    sha256 = "9ad1366dd99f4a6f4ff3d3e4515765ed22c5edb649584f44e089f609adfec10e"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.x86_64-linux-musl.tar.gz"
+[[FastTree]]
+arch = "x86_64"
+git-tree-sha1 = "2249d6c4f4186f980e387b6c075336870332db0a"
+os = "freebsd"
+
+    [[FastTree.download]]
+    sha256 = "2bd7be9f59d336868b6d00ca2e9311db445e240da9348f4cd4e53e21cd4323e0"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.x86_64-unknown-freebsd.tar.gz"
+[[FastTree]]
+arch = "x86_64"
+git-tree-sha1 = "3a8b33f62ac001889a8c976c45dce0aa885bad49"
+os = "windows"
+
+    [[FastTree.download]]
+    sha256 = "a4149c377ecfe5a5a0cdadb8c94a9c7f93ee7743c42db565c605b8df2a2a75b2"
+    url = "https://github.com/JuliaBinaryWrappers/FastTree_jll.jl/releases/download/FastTree-v2.1.11+0/FastTree.v2.1.11.x86_64-w64-mingw32.tar.gz"
